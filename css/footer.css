@@ -50,7 +50,9 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
     outline: none;
 }
 
+.f_widget {
 
+}
 
 .new_footer_top .f_widget.about-widget .f_list li a:hover {
     color: #5e2ced;
@@ -124,9 +126,11 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
     margin-left: 4px;
 }
 .new_footer_top .f-title {
+    margin-top: 30px;
     margin-bottom: 30px;
     color: #263b5e;
 }
+
 .f_600 {
     font-weight: 600;
 }

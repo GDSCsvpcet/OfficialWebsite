@@ -1548,7 +1548,7 @@ header.stcky .hdr-scl {margin-top: 10px;}
   margin: 0 0 23px;
 }
 .tlt-txt-innr > h2 i {font-style: normal;}
-/*.text-center .tlt-txt-innr > h2 {margin-bottom: 13px;}*/
+/* .text-center > h2 {margin-bottom: 13px;} */
 .tlt-txt-innr > p {
   margin-bottom: 0;
   display: inline-block;
