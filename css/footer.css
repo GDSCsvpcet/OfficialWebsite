@@ -1,9 +1,9 @@
 body {
-    background: #fbfbfd;
+    background: #3e3e81a8;
 }
 
 .new_footer_area {
-    background: #fbfbfd;
+    background: #d4d4d49f;
 }
 
 
@@ -12,17 +12,11 @@ body {
     position: relative;
       overflow-x: hidden;
 }
-.new_footer_area .footer_bottom {
+.new_footer_area {
     padding-top: 5px;
     padding-bottom: 50px;
 }
-.footer_bottom {
-    font-size: 14px;
-    font-weight: 300;
-    line-height: 20px;
-    color: #7f88a6;
-    padding: 27px 0px;
-}
+
 .new_footer_top .company_widget p {
     font-size: 16px;
     font-weight: 300;
@@ -49,8 +43,6 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
     text-decoration: none;
     outline: none;
 }
-
-
 
 .new_footer_top .f_widget.about-widget .f_list li a:hover {
     color: #5e2ced;
@@ -124,9 +116,11 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
     margin-left: 4px;
 }
 .new_footer_top .f-title {
+    margin-top: 30px;
     margin-bottom: 30px;
     color: #263b5e;
 }
+
 .f_600 {
     font-weight: 600;
 }
