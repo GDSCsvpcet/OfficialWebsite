@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "e:\\ENVATO PREMIUM\\web\\elements-unrovr-animated-vcard-resume-portfolio-5F7VBK-Wqplv2xe-04-10\\unrovr-html-v1.0.1\\HTML Template\\Dreamweaver Site",
+      "environment": [],
+      "program": "e:\\ENVATO PREMIUM\\web\\elements-unrovr-animated-vcard-resume-portfolio-5F7VBK-Wqplv2xe-04-10\\unrovr-html-v1.0.1\\HTML Template\\Dreamweaver Site\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
